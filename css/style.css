@@ -224,9 +224,9 @@ p img {
     right: 25px;
     display: none;
 }
-/* .show {
+.show {
     display: block !important;
-} */
+} 
 
 .slideshow {
     height: 470px;

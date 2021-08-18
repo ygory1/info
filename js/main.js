@@ -1,5 +1,5 @@
-var data = new Data();
-document.getElementById('an').innerHTML = data.getfullYear(); 
+var dat = new Date();
+document.getElementById("an").innerHTML = dat.getFullYear(); 
 
 
 function show() {
